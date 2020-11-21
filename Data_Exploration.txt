@@ -9,6 +9,10 @@ Erkenntnisse
   Grundstck in qm	Grundstcksform	Steigung	Bezirk	Zone	Lage	Typ	Zustand	Gebaut	Renoviert	Zustand Fassade	Kellerflche in qm	Klimaanlage Pool
   
  
+ Zentral
+  Enquineered Feature: €/qm2 (Wohnfläche)
+ 
+ 
 Bewertung der Schlussfolgerungen
 
 Summary
