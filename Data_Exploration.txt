@@ -1,5 +1,13 @@
 Erkenntnisse
   Anomalien
+  
+  Florian
+  Heizung	Heizungsqualitt Erster Stock in qm	Zweiter Stock in qm	Wohnflche in qm	Schlafzimmer	Kchen	Kchenqualität	Räume	Garage Typ	Garagenkapazitt	Verkaufsmonat	Verkaufsjahr	Preis
+
+
+  Kevin
+  Grundstck in qm	Grundstcksform	Steigung	Bezirk	Zone	Lage	Typ	Zustand	Gebaut	Renoviert	Zustand Fassade	Kellerflche in qm	Klimaanlage Pool
+  
  
 Bewertung der Schlussfolgerungen
 
