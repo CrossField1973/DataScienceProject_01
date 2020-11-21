@@ -1,5 +1,10 @@
-Zustand (Kevin)
-Klimaanlage (Kevin)
-Küchenqualität (Florian)
-Heizungsqualität (Florian)
-Fassadenqualität (Florian)
+
+
+
+
+Summary
+  Zustand (Kevin)
+  Klimaanlage (Kevin)
+  Küchenqualität (Florian)
+  Heizungsqualität (Florian)
+  Fassadenqualität (Florian)
