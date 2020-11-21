@@ -1,0 +1,5 @@
+Zustand
+Klimaanlage
+Küchenqualität
+Heizungsqualität
+Fassadenqualität
