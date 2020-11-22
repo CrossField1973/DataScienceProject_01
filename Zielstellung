@@ -1,5 +1,17 @@
 Ziele 
 
+Das grundliegende Ziel der Datenanalyse ist, Informationen zu bisherigen Wohnnungsverkäufen zu verwenden, um zu prüfen, ob sich Renovationen/Ausbauten von Wohnungen auf den Verkaufspreis auswirken.
+Dafür sollen Wohnungen gefunden werden, bei denen eine Renovation eine Steigerung im Verkaufspreis bewirkt. Eine Renovation kann in diesem Zusammenhang neben dem Anbringen einer Klimaanlage auch eine komplett Renovation bedeuten, die genauen Renovierungsmaßnahmen können vom Investor festgelegt und mit dem Modell überprüft werden.
+So können Investoren Häuser kaufen, renovieren und für einen deutlich höheren Preis verkaufen, der die Kosten für den Hauskauf und der Renovierung übersteigt. 
+Damit dies möglich wird, müssen mehrere Fragen beantwortet werden:
+- Gibt es bekannte Qualitätskriterien, die einen Einfluss auf den Verkaufspreis haben?
+  (zur Verfügung stehen der Zustand des Hauses, der Küche, Heizung und Fassade und das Vorhandensein einer Klimaanlage; denkbar ist auch der Garagen-/Heizungstyp)
+- Ist eine Renovation eines oder mehrer Hausbestandteile mit bestimmten Preis sinnvoll und rentabel, beziehungsweise welche Gewinne können dabei erzielt werden?
+  (Es wird geprüft, wie Stark der Einfluss der Qualitätskriterien auf den Preis ist und welche Kosten dadurch maximal für die Renovation entstehen dürfen)
+
+--
+
+
 Die Datenanalyse soll überprüfen, inwiefern sich Renovationen/Ausbauten von Häusern auf den Verkaufspreis auswirken.
 Dabei sollen verschiedene Qualitätskriterien verwendet werden, um Verkaufspreise zu erstellen. Mithilfe der Kaufspreise für verschiedene Qualitätsstufen kann dann überprüft werden, ob sich eine Renovation des Hauses finanziell lohnt und wieviel Gewinn dadurch erziehlt werden kann. Als Qualitätskriterien sollen neben dem Zustand vom Haus selber auch der Zustand der Heizung, Küche und der Fassade und das Vorhandensein einer Klimaanlage in Betracht gezogen werden.
 
