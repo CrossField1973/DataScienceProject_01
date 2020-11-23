@@ -6,8 +6,61 @@ Erkenntnisse
 
 
   Kevin
-  Grundstck in qm	Grundstcksform	Steigung	Bezirk	Zone	Lage	Typ	Zustand	Gebaut	Renoviert	Zustand Fassade	Kellerflche in qm	Klimaanlage Pool
   
+  Grundstück in qm	
+  
+  Grundstücksform	
+    IR3 nicht aussagekräftig ~12 Einträge
+    IR1 teurer als IR2
+
+  Steigung	
+  
+  Bezirk	
+  
+  Zone	
+    RP gibt es keine Einträge
+	  Es gibt kaum RH
+
+  Lage	
+    Park und Bahn ist teurer als große Straße (außer in Old Gotham)
+    East End, Paris Island, Tricorner, Upper West, Novick District Robinson Park, Fashion District haben nur normale Häsuer
+
+  Typ	
+    Es gibt nur wenige 2-Familien-Anbau Häuser
+    Clear Creek & East End hat nur 1Fam Häuser
+    Paris Island, Novick District, Robinson Park, Fashion District bestehen nur aus Reihenhäusern
+    Upper West hat nur Reihenendhäuser und ein 1-Familien Haus
+    Es gibt nur Reihenhäuser mit einer Klimaanlage
+    
+  Zustand	
+    Zustand 1 gibt es nur 1 mal
+    Zustand macht nur einen preislichen Unterschied von 5 abwärts
+
+  Gebaut/Renoviert	
+    Grundstückspreis/m2 ist nur bei renovierten Häusern vom Baujahr/Renovationsjahr abhängig 
+    Erst ab Baujahr 2080 gibt es Häuser, die nicht renoviert werden
+    Häuser, die ca. nach Jahr 2130 gebaut wurden können um einiges teurer als die Jahre davor sein
+    Preis von renovierten und unrenovierten Häusern unterscheiden sich nicht erkennbar
+    2080 wurden viele Häuser renoviert, danach sanken Renovierungen auf null gefolgt von einer Zunahme an Renovierungen
+    Nach 2110 werden kaum billige Häuser gebaut (Preis > 1000)
+    Je später gebaut, desto teurer. Jedoch nur leicht. Vermutlich Inflation
+
+  Zustand Fassade	
+    3 und 4 am Häufigsten
+    Erkennbarer unterschied im Preis zwischen 1 2 und 5
+
+  Kellerfläche in qm	
+    Die größten Keller gibt es in East End und in North East
+    Kellergröße und Preis sind grob relational
+
+  Klimaanlage 
+    Klimaanlage sorgt für eine Preissteigerung
+	  Nur in 40% der Distrikte gibt es Häuser ohne Klimaanlage
+
+  Pool
+    Haben keinen Einfluss auf den Preis
+    Sehr wenig Datensätze
+
  
  Zentral
   Enquineered Feature: €/qm2 (Wohnfläche)
