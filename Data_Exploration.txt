@@ -21,3 +21,39 @@ Summary
   Küchenqualität (Florian)
   Heizungsqualität (Florian)
   Fassadenqualität (Florian)
+
+Befunde:
+
+In der Datenanalysephase wurden zunächst alle Daten überprüft und nach Anomalien und 
+
+
+
+Grundstücksform (Aufgeschlüsselt nach Bezirk)
+
+IR3 nicht aussagekräftig ~12 Einträge
+IR1 teurer als IR2
+
+Steigung (Aufgeschlüsselt nach Bezirk)
+
+
+Zone [Bebauungsdichte] (Aufgeschlüsselt nach Bezirk)
+
+    RP gibt es keine Einträge
+    Es gibt kaum RH
+
+Lage
+
+Park und Bahn ist teurer als große Straße (außer in Old Gotham)
+East End, Paris Island, Tricorner, Upper West, Novick District Robinson Park, Fashion District haben nur normale Häuser
+
+Typ
+
+Es gibt nur wenige 2-Familien-Anbau Häuser
+Clear Creek & East End hat nur 1Fam Häuser
+Paris Island, Novick District, Robinson Park, Fashion District bestehen nur aus Reihenhäusern
+Upper West hat nur Reihenendhäuser und ein 1-Familien Haus
+Es gibt nur Reihenhäuser mit einer Klimaanlage
+
+
+
+Die Daten 
